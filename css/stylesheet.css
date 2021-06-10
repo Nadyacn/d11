@@ -218,3 +218,16 @@ span.menu-icon {
   top: 7px;
   box-shadow: none;
 }
+
+footer img {
+  width: 124px;
+}
+
+footer p {
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
+footer {
+  padding-top: 30px;
+}
